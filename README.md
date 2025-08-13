@@ -8,9 +8,9 @@ Un proyecto integral de ciencia de datos que abarca desde el análisis explorato
 
 ### 👥 **Autor**
 
--   **Nombre:** Felipe Guillermo Guzmán De La Fuente
--   **Mail:** guzzman00@hotmail.com
--   **GitHub:** [Guzzman00](https://github.com/Guzzman00)
+-   **Nombre:** Jose Toro Orellana
+-   **Mail:** jose.toro.orellana@gmail.com
+-   **GitHub:** [cotetin](https://github.com/cotetin)
 
 ---
 
